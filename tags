@@ -1,0 +1,14 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+fsize	.\template.py	/^fsize = 11$/;"	v
+matplotlib	.\template.py	/^import matplotlib.pyplot as plt$/;"	i
+np	.\template.py	/^import numpy as np$/;"	i
+plt	.\template.py	/^import matplotlib.pyplot as plt$/;"	i
+x	.\template.py	/^x = np.linspace(0, 2*np.pi, 100)$/;"	v
+y	.\template.py	/^y = np.sin(x)$/;"	v
+y2	.\template.py	/^y2 = np.cos(x)$/;"	v
+y3	.\template.py	/^y3 = np.sin(2*x - np.pi\/8)$/;"	v
